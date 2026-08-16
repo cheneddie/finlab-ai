@@ -1,0 +1,26 @@
+{
+  "selected": {
+    "params": "exc=0.07|re=30|buf=3|tg=2R|delay=next_1s",
+    "n_train": 1510.0,
+    "mean_r_train": 0.16992908489597233,
+    "win_rate_train": 0.39403973509933776,
+    "pf_train": 1.282820420063479,
+    "mean_r_cost_0_5_train": 0.0485026085057316,
+    "mean_r_cost_1_train": -0.07292386788450905,
+    "n_test": 694.0,
+    "mean_r_test": 0.06222200390067825,
+    "win_rate_test": 0.35446685878962536,
+    "pf_test": 1.097196699553929,
+    "mean_r_cost_0_5_test": -0.050556975990618855,
+    "mean_r_cost_1_test": -0.16333595588191593
+  },
+  "base_params_selected_on_train": [
+    "exc=0.07|re=60|buf=3|tg=2R",
+    "exc=0.07|re=60|buf=3|tg=POC",
+    "exc=0.07|re=30|buf=3|tg=2R",
+    "exc=0.03|re=30|buf=3|tg=1R"
+  ],
+  "n_candidates": 54966,
+  "n_parameter_variants": 20,
+  "split": "2025-09-01"
+}
