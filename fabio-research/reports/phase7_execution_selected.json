@@ -1,0 +1,30 @@
+{
+  "continuation_retest": {
+    "family": "continuation_retest",
+    "params": "hold=30|thr=0.90|band=0.10|tr=2",
+    "n_train": 386.0,
+    "mean_r_train": 0.062052571074942324,
+    "win_rate_train": 0.35751295336787564,
+    "profit_factor_train": 1.0970838967137042,
+    "mean_rr_train": 2.0,
+    "n_test": 198.0,
+    "mean_r_test": 0.019828718748751265,
+    "win_rate_test": 0.3484848484848485,
+    "profit_factor_test": 1.0304347776143623,
+    "mean_rr_test": 2.0
+  },
+  "fade_reentry": {
+    "family": "fade_reentry",
+    "params": "exc=0.07|re=60|buf=3|tg=2R",
+    "n_train": 1805.0,
+    "mean_r_train": -0.12978624328645152,
+    "win_rate_train": 0.29750692520775623,
+    "profit_factor_train": 0.8132647500681957,
+    "mean_rr_train": 2.0,
+    "n_test": 847.0,
+    "mean_r_test": -0.19640738577278397,
+    "win_rate_test": 0.2727272727272727,
+    "profit_factor_test": 0.7276432529665703,
+    "mean_rr_test": 2.0
+  }
+}
