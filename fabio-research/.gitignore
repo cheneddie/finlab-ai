@@ -1,0 +1,9 @@
+*.parquet
+*.pyc
+__pycache__/
+.pytest_cache/
+reports/auction_events*.csv
+reports/execution_candidates.csv
+reports/oos_predictions.csv
+reports/phase5_response_candidates.csv
+reports/phase5_response_selected_trades.csv
